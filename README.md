@@ -1,4 +1,2 @@
-# hello-world
-start with GIT
-
-Doing the practice with new branch
+Hello world program in GIT 
+learning the pull request and commits...etc.
